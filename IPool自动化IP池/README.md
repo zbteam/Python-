@@ -13,8 +13,4 @@ IPool  自动化IP池
 ****
 输入要验证的网址，相当于这些ip可以访问哪个网址
 
-![img](https://github.com/hackxc/IPool/blob/master/img/demo1.png)
-
 扫描完成后会显示可用IP列表，同时自动保存到success_ip.txt
-
-![img](https://github.com/hackxc/IPool/blob/master/img/demo2.png)
